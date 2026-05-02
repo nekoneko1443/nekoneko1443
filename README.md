@@ -1,21 +1,22 @@
 ## Thank you for visiting!
-### Profile
+
+### 👋 Profile
 - Name : rioneko
 - Age  : 19
 - Nationality : Japanese
 
-### Learning
+### 📗Learning
 - Python
 - TypeScript/JavaScript
 - C
 - blender
 - Unity
 
-### My Portfolio(editing now)
+### 🐈 My Portfolio(editing now)
 [my portfolio](https://nekoneko1443.github.io/rioneko.github.io/)
 
-### Contact
-- X:[X](https://x.com/rio1210_ksu)
+### 📫 Contact
+[X](https://x.com/rio1210_ksu)
 <!--
 **nekoneko1443/nekoneko1443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
